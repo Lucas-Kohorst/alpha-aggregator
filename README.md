@@ -6,16 +6,10 @@
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Server](#server)
-  - [Communities & Subreddits](#communities-&-subreddits)
-    - [German communities](#german-communities)
-  - [Frameworks, Languages & Libraries](#frameworks-languages-&-libraries)
-  - [Component Libraries & Styling](#component-libraries-&-styling)
-  - [Tooling](#tooling)
-  - [Conferences](#conferences)
-  - [Other](#other)
-- [Contributing](#contributing)
-- [Credits](#credits)
+- [Discord Channels](#discord-channels)
+- [Twitter Lists](#twitter-lists)
+- [RSS Feeds](#rss-feeds)
+- [Listing Bots](#listing-bots)
 
 ## Discord Channels
 
