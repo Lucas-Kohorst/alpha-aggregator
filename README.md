@@ -1,6 +1,7 @@
  <p align="center">
   <h1 align="center">Alpha Aggregator</h1>
   <p align="center">Discord Server to aggregate gov. forums, twitter, discord updates, etc. <p>
+ <a align="center" href="https://discord.gg/qTb2m8umJN">Discord Link</a>
 </p>
 
 ## Table of Contents
